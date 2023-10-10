@@ -14,7 +14,7 @@ PAGES = {
     "Dashboard": Dashboard,
     "Query": Query,
 }
-image = Image.open('Data_Analyser-main/auto-ra-banner.png')
+image = Image.open('auto-ra-banner.png')
 st.image(image)
 if s == True:
     selection = st.selectbox("Choose one", list(PAGES.keys()), key ='2')
