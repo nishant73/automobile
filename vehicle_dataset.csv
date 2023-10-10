@@ -1,0 +1,1000 @@
+Make,Model,Year,Engine,Hp,Cylinders,Transmission,Driven,Doors,Size,Style,Hgmpg,Ctmpg,Popularity,Msrp
+BMW,1 Series M,2011,premium unleaded (required),335,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,19,3916,46135
+BMW,1 Series,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,19,3916,40650
+BMW,1 Series,2011,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,3916,36350
+BMW,1 Series,2011,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,18,3916,29450
+BMW,1 Series,2011,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,18,3916,34500
+BMW,1 Series,2012,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,18,3916,31200
+BMW,1 Series,2012,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Convertible,26,17,3916,44100
+BMW,1 Series,2012,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,3916,39300
+BMW,1 Series,2012,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,18,3916,36900
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Convertible,27,18,3916,37200
+BMW,1 Series,2013,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,3916,39600
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,19,3916,31500
+BMW,1 Series,2013,premium unleaded (required),300,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,19,3916,44400
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,19,3916,37200
+BMW,1 Series,2013,premium unleaded (required),230,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,19,3916,31500
+BMW,1 Series,2013,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,Compact,Convertible,25,18,3916,48250
+BMW,1 Series,2013,premium unleaded (required),320,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,3916,43550
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,20,16,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,1992,regular unleaded,172,6,MANUAL,all wheel drive,4,Midsize,Sedan,21,16,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,20,16,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,24,17,3105,2000
+Audi,100,1993,regular unleaded,172,6,MANUAL,all wheel drive,4,Midsize,Sedan,21,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,front wheel drive,4,Midsize,Wagon,21,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,MANUAL,all wheel drive,4,Midsize,Sedan,22,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,MANUAL,front wheel drive,4,Midsize,Sedan,22,17,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,front wheel drive,4,Midsize,Sedan,22,16,3105,2000
+Audi,100,1994,regular unleaded,172,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,21,16,3105,2000
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Compact,Convertible,35,26,819,27495
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Compact,Convertible,35,26,819,24995
+FIAT,124 Spider,2017,premium unleaded (recommended),160,4,MANUAL,rear wheel drive,2,Compact,Convertible,35,26,819,28195
+Mercedes-Benz,190-Class,1991,regular unleaded,130,4,MANUAL,rear wheel drive,4,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,1991,regular unleaded,158,6,MANUAL,rear wheel drive,4,Compact,Sedan,25,17,617,2000
+Mercedes-Benz,190-Class,1992,regular unleaded,158,6,MANUAL,rear wheel drive,4,Compact,Sedan,25,17,617,2000
+Mercedes-Benz,190-Class,1992,regular unleaded,130,4,MANUAL,rear wheel drive,4,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,1993,regular unleaded,130,4,MANUAL,rear wheel drive,4,Compact,Sedan,26,18,617,2000
+Mercedes-Benz,190-Class,1993,regular unleaded,158,6,MANUAL,rear wheel drive,4,Compact,Sedan,25,17,617,2000
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Compact,Coupe,35,23,3916,32850
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Compact,Convertible,34,23,3916,38650
+BMW,2 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,31,20,3916,48750
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Compact,Coupe,35,23,3916,34850
+BMW,2 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Compact,Convertible,34,22,3916,40650
+BMW,2 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,31,20,3916,44150
+BMW,2 Series,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,Compact,Coupe,34,22,3916,32850
+BMW,2 Series,2016,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,2,Compact,Coupe,30,20,3916,46150
+BMW,2 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,30,20,3916,50750
+BMW,2 Series,2017,premium unleaded (recommended),335,6,AUTOMATIC,all wheel drive,2,Compact,Coupe,31,21,3916,46450
+BMW,2 Series,2017,premium unleaded (recommended),335,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,32,21,3916,49050
+BMW,2 Series,2017,premium unleaded (recommended),335,6,AUTOMATIC,all wheel drive,2,Compact,Convertible,32,21,3916,51050
+BMW,2 Series,2017,premium unleaded (recommended),335,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,32,21,3916,44450
+BMW,2 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,Compact,Convertible,34,23,3916,38950
+BMW,2 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,Compact,Coupe,35,24,3916,33150
+BMW,2 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Compact,Coupe,33,24,3916,35150
+BMW,2 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Compact,Convertible,33,23,3916,40950
+Audi,200,1990,regular unleaded,162,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,20,16,3105,2000
+Audi,200,1990,regular unleaded,162,5,MANUAL,all wheel drive,4,Midsize,Wagon,22,15,3105,2000
+Audi,200,1990,regular unleaded,162,5,MANUAL,all wheel drive,4,Midsize,Sedan,23,15,3105,2000
+Audi,200,1991,regular unleaded,217,5,MANUAL,all wheel drive,4,Midsize,Sedan,22,16,3105,2000
+Audi,200,1991,regular unleaded,217,5,MANUAL,all wheel drive,4,Midsize,Wagon,22,16,3105,2000
+Audi,200,1991,regular unleaded,162,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,20,16,3105,2000
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,25170
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,23950
+Chrysler,200,2015,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,29,18,1013,29370
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,21995
+Chrysler,200,2015,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,26625
+Chrysler,200,2015,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,29,18,1013,30825
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,21995
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,27795
+Chrysler,200,2016,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,29,18,1013,31785
+Chrysler,200,2016,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,29,18,1013,29905
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,22490
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,27570
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,25690
+Chrysler,200,2016,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,24490
+Chrysler,200,2017,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,28,18,1013,29905
+Chrysler,200,2017,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,28,18,1013,31785
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,26685
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,22490
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,25690
+Chrysler,200,2017,flex-fuel (unleaded/E85),295,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,28,18,1013,30900
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,27795
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,21995
+Chrysler,200,2017,flex-fuel (unleaded/E85),184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,23,1013,24490
+Nissan,200SX,1996,regular unleaded,115,4,MANUAL,front wheel drive,2,Compact,Coupe,36,26,2009,2000
+Nissan,200SX,1996,regular unleaded,115,4,MANUAL,front wheel drive,2,Compact,Coupe,36,26,2009,2000
+Nissan,200SX,1996,regular unleaded,140,4,MANUAL,front wheel drive,2,Compact,Coupe,29,21,2009,2000
+Nissan,200SX,1997,regular unleaded,140,4,MANUAL,front wheel drive,2,Compact,Coupe,29,21,2009,2000
+Nissan,200SX,1997,regular unleaded,115,4,MANUAL,front wheel drive,2,Compact,Coupe,35,25,2009,2000
+Nissan,200SX,1997,regular unleaded,115,4,MANUAL,front wheel drive,2,Compact,Coupe,35,25,2009,2000
+Nissan,200SX,1998,regular unleaded,115,4,MANUAL,front wheel drive,2,Compact,Coupe,35,25,2009,2000
+Nissan,200SX,1998,regular unleaded,115,4,MANUAL,front wheel drive,2,Compact,Coupe,35,25,2009,2000
+Nissan,200SX,1998,regular unleaded,140,4,MANUAL,front wheel drive,2,Compact,Coupe,28,20,2009,2073
+Nissan,240SX,1996,regular unleaded,155,4,MANUAL,rear wheel drive,2,Compact,Coupe,26,19,2009,3713
+Nissan,240SX,1996,regular unleaded,155,4,MANUAL,rear wheel drive,2,Compact,Coupe,26,19,2009,3520
+Nissan,240SX,1997,regular unleaded,155,4,MANUAL,rear wheel drive,2,Compact,Coupe,26,19,2009,3910
+Nissan,240SX,1997,regular unleaded,155,4,MANUAL,rear wheel drive,2,Compact,Coupe,26,19,2009,4182
+Nissan,240SX,1997,regular unleaded,155,4,MANUAL,rear wheel drive,2,Compact,Coupe,26,19,2009,4107
+Nissan,240SX,1998,regular unleaded,155,4,MANUAL,rear wheel drive,2,Compact,Coupe,25,20,2009,4299
+Nissan,240SX,1998,regular unleaded,155,4,MANUAL,rear wheel drive,2,Compact,Coupe,25,20,2009,4693
+Nissan,240SX,1998,regular unleaded,155,4,MANUAL,rear wheel drive,2,Compact,Coupe,25,20,2009,4107
+Volvo,240,1991,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Wagon,26,19,870,2000
+Volvo,240,1991,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,23,18,870,2000
+Volvo,240,1991,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Sedan,26,19,870,2000
+Volvo,240,1992,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Sedan,26,19,870,2000
+Volvo,240,1992,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Wagon,26,19,870,2000
+Volvo,240,1992,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Sedan,26,19,870,2000
+Volvo,240,1993,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Sedan,26,19,870,2000
+Volvo,240,1993,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Wagon,25,18,870,2000
+Mazda,2,2012,regular unleaded,100,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,29,586,16020
+Mazda,2,2012,regular unleaded,100,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,29,586,14530
+Mazda,2,2012,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,34,28,586,16860
+Mazda,2,2012,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,34,28,586,15370
+Mazda,2,2013,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,34,28,586,17050
+Mazda,2,2013,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,34,28,586,15560
+Mazda,2,2013,regular unleaded,100,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,29,586,16210
+Mazda,2,2013,regular unleaded,100,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,29,586,14720
+Mazda,2,2014,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,34,28,586,17050
+Mazda,2,2014,regular unleaded,100,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,34,28,586,15560
+Mazda,2,2014,regular unleaded,100,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,29,586,16210
+Mazda,2,2014,regular unleaded,100,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,29,586,14720
+BMW,3 Series Gran Turismo,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Midsize,4dr Hatchback,30,20,3916,47250
+BMW,3 Series Gran Turismo,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,4dr Hatchback,33,22,3916,41850
+BMW,3 Series Gran Turismo,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,4dr Hatchback,33,22,3916,41850
+BMW,3 Series Gran Turismo,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,4dr Hatchback,34,22,3916,43000
+BMW,3 Series Gran Turismo,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Midsize,4dr Hatchback,30,20,3916,49200
+BMW,3 Series Gran Turismo,2017,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,4,Midsize,4dr Hatchback,30,20,3916,49650
+BMW,3 Series Gran Turismo,2017,premium unleaded (required),248,4,AUTOMATIC,all wheel drive,4,Midsize,4dr Hatchback,33,23,3916,43950
+BMW,3 Series,2015,premium unleaded (required),241,4,AUTOMATIC,all wheel drive,4,Midsize,Wagon,33,22,3916,41950
+BMW,3 Series,2015,premium unleaded (required),335,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,33,25,3916,50150
+BMW,3 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,35,23,3916,37500
+BMW,3 Series,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,32,21,3916,43750
+BMW,3 Series,2015,diesel,180,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,45,32,3916,39000
+BMW,3 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,33,22,3916,39500
+BMW,3 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,33,22,3916,39500
+BMW,3 Series,2015,premium unleaded (required),180,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,35,23,3916,34950
+BMW,3 Series,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,30,20,3916,45750
+BMW,3 Series,2015,diesel,180,4,AUTOMATIC,all wheel drive,4,Midsize,Wagon,43,31,3916,43450
+BMW,3 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,35,23,3916,37500
+BMW,3 Series,2015,diesel,180,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,43,31,3916,41000
+BMW,3 Series,2015,premium unleaded (required),180,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,36,24,3916,32950
+BMW,3 Series,2016,diesel,180,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,40,30,3916,41850
+BMW,3 Series,2016,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,33,22,3916,47800
+BMW,3 Series,2016,diesel,180,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,42,32,3916,39850
+BMW,3 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,34,22,3916,38350
+BMW,3 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,34,22,3916,40350
+BMW,3 Series,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,4,Midsize,Sedan,34,22,3916,38350
+BMW,3 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,Wagon,34,22,3916,42650
+BMW,3 Series,2016,premium unleaded (required),180,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,36,24,3916,33150
+BMW,3 Series,2016,premium unleaded (required),180,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,35,23,3916,35150
+BMW,3 Series,2016,diesel,180,4,AUTOMATIC,all wheel drive,4,Midsize,Wagon,40,30,3916,44150
+BMW,3 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,33,22,3916,45800
+BMW,3 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,34,23,3916,38750
+BMW,3 Series,2017,premium unleaded (recommended),180,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,34,23,3916,35450
+BMW,3 Series,2017,premium unleaded (recommended),180,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,35,23,3916,33450
+BMW,3 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,33,23,3916,40750
+BMW,3 Series,2017,diesel,180,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,40,30,3916,42250
+BMW,3 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Midsize,Wagon,33,23,3916,42950
+BMW,3 Series,2017,diesel,180,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,42,32,3916,40250
+BMW,3 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,31,21,3916,49900
+BMW,3 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,32,21,3916,47900
+BMW,3 Series,2017,diesel,180,4,AUTOMATIC,all wheel drive,4,Midsize,Wagon,40,30,3916,44450
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,19,15,617,2232
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,20,15,617,2000
+Mercedes-Benz,300-Class,1991,regular unleaded,158,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,17,617,2000
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,20,15,617,2105
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,18,15,617,2199
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,16,617,2000
+Mercedes-Benz,300-Class,1991,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,19,15,617,2124
+Mercedes-Benz,300-Class,1991,regular unleaded,228,6,MANUAL,rear wheel drive,2,Compact,Convertible,21,14,617,3552
+Mercedes-Benz,300-Class,1991,regular unleaded,217,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,22,15,617,2179
+Mercedes-Benz,300-Class,1991,diesel,121,5,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,30,23,617,2000
+Mercedes-Benz,300-Class,1992,diesel,121,5,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,29,23,617,2000
+Mercedes-Benz,300-Class,1992,regular unleaded,228,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,17,14,617,2377
+Mercedes-Benz,300-Class,1992,regular unleaded,228,6,MANUAL,rear wheel drive,2,Compact,Convertible,21,15,617,3814
+Mercedes-Benz,300-Class,1992,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,19,15,617,2207
+Mercedes-Benz,300-Class,1992,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,20,15,617,2000
+Mercedes-Benz,300-Class,1992,regular unleaded,217,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,21,15,617,2248
+Mercedes-Benz,300-Class,1992,regular unleaded,177,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,16,617,2065
+Mercedes-Benz,300-Class,1992,diesel,148,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,22,18,617,2547
+Mercedes-Benz,300-Class,1992,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,18,15,617,2282
+Mercedes-Benz,300-Class,1992,regular unleaded,158,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,23,18,617,2000
+Mercedes-Benz,300-Class,1993,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Midsize,Wagon,19,15,617,2544
+Mercedes-Benz,300-Class,1993,regular unleaded,217,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,22,17,617,2397
+Mercedes-Benz,300-Class,1993,diesel,121,5,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,30,23,617,2000
+Mercedes-Benz,300-Class,1993,regular unleaded,228,6,MANUAL,rear wheel drive,2,Compact,Convertible,21,14,617,4174
+Mercedes-Benz,300-Class,1993,regular unleaded,217,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,17,617,2187
+Mercedes-Benz,300-Class,1993,diesel,148,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,22,18,617,2729
+Mercedes-Benz,300-Class,1993,regular unleaded,177,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,19,15,617,2433
+Mercedes-Benz,300-Class,1993,regular unleaded,194,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,23,17,617,2247
+Mercedes-Benz,300-Class,1993,regular unleaded,228,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,18,14,617,2540
+Mitsubishi,3000GT,1997,regular unleaded,218,6,MANUAL,front wheel drive,2,Compact,2dr Hatchback,23,17,436,3941
+Mitsubishi,3000GT,1997,regular unleaded,161,6,MANUAL,front wheel drive,2,Compact,2dr Hatchback,22,17,436,3295
+Mitsubishi,3000GT,1997,regular unleaded,320,6,MANUAL,all wheel drive,2,Compact,2dr Hatchback,22,16,436,6008
+Mitsubishi,3000GT,1998,regular unleaded,320,6,MANUAL,all wheel drive,2,Compact,2dr Hatchback,22,16,436,6710
+Mitsubishi,3000GT,1998,regular unleaded,161,6,MANUAL,front wheel drive,2,Compact,2dr Hatchback,22,17,436,3701
+Mitsubishi,3000GT,1998,regular unleaded,218,6,MANUAL,front wheel drive,2,Compact,2dr Hatchback,23,17,436,4671
+Mitsubishi,3000GT,1999,regular unleaded,218,6,MANUAL,front wheel drive,2,Compact,2dr Hatchback,23,17,436,5306
+Mitsubishi,3000GT,1999,regular unleaded,320,6,MANUAL,all wheel drive,2,Compact,2dr Hatchback,22,16,436,7600
+Mitsubishi,3000GT,1999,regular unleaded,161,6,MANUAL,front wheel drive,2,Compact,2dr Hatchback,22,17,436,4090
+Chrysler,300,2015,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,37570
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,31695
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,38070
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,44895
+Chrysler,300,2015,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,35070
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,42395
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,34195
+Chrysler,300,2015,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,40570
+Chrysler,300,2016,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,38095
+Chrysler,300,2016,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,35595
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,45190
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,32260
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,37755
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,41055
+Chrysler,300,2016,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,36090
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,42690
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,38555
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,19,1013,35255
+Chrysler,300,2016,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,38590
+Chrysler,300,2016,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,34760
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,41135
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,45270
+Chrysler,300,2017,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,38670
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,30,19,1013,38635
+Chrysler,300,2017,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,30,19,1013,36170
+Chrysler,300,2017,regular unleaded,300,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,38175
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,30,19,1013,32340
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,30,19,1013,42770
+Chrysler,300,2017,regular unleaded,292,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,18,1013,34840
+Chrysler,300,2017,regular unleaded,300,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,30,19,1013,35675
+Chrysler,300M,2002,premium unleaded (required),250,6,AUTOMATIC,front wheel drive,4,Large,Sedan,24,16,1013,32065
+Chrysler,300M,2002,premium unleaded (required),250,6,AUTOMATIC,front wheel drive,4,Large,Sedan,24,16,1013,28540
+Chrysler,300M,2003,premium unleaded (required),255,6,AUTOMATIC,front wheel drive,4,Large,Sedan,25,16,1013,32315
+Chrysler,300M,2003,regular unleaded,250,6,AUTOMATIC,front wheel drive,4,Large,Sedan,25,16,1013,28885
+Chrysler,300M,2004,regular unleaded,250,6,AUTOMATIC,front wheel drive,4,Large,Sedan,25,16,1013,29185
+Chrysler,300M,2004,premium unleaded (required),255,6,AUTOMATIC,front wheel drive,4,Large,Sedan,25,16,1013,32615
+Nissan,300ZX,1994,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Convertible,22,16,2009,2847
+Nissan,300ZX,1994,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Coupe,22,16,2009,2488
+Nissan,300ZX,1994,regular unleaded,300,6,MANUAL,rear wheel drive,2,Compact,2dr Hatchback,22,16,2009,2683
+Nissan,300ZX,1994,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Coupe,22,16,2009,2553
+Nissan,300ZX,1995,regular unleaded,300,6,MANUAL,rear wheel drive,2,Compact,Coupe,22,16,2009,3049
+Nissan,300ZX,1995,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Coupe,22,17,2009,2774
+Nissan,300ZX,1995,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Coupe,22,17,2009,2702
+Nissan,300ZX,1995,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Convertible,22,17,2009,3101
+Nissan,300ZX,1996,regular unleaded,300,6,MANUAL,rear wheel drive,2,Compact,Coupe,22,16,2009,3510
+Nissan,300ZX,1996,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Coupe,22,17,2009,3107
+Nissan,300ZX,1996,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Convertible,22,17,2009,3624
+Nissan,300ZX,1996,regular unleaded,222,6,MANUAL,rear wheel drive,2,Compact,Coupe,22,17,2009,3185
+Mazda,323,1992,regular unleaded,82,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,33,25,586,2000
+Mazda,323,1992,regular unleaded,82,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,33,25,586,2000
+Mazda,323,1993,regular unleaded,82,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,33,25,586,2000
+Mazda,323,1993,regular unleaded,82,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,32,24,586,2000
+Mazda,323,1994,regular unleaded,82,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,33,25,586,2000
+Mercedes-Benz,350-Class,1990,diesel,134,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,23,19,617,2144
+Mercedes-Benz,350-Class,1990,diesel,134,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,23,19,617,2098
+Mercedes-Benz,350-Class,1991,diesel,134,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,23,19,617,2178
+Mercedes-Benz,350-Class,1991,diesel,134,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,23,19,617,2311
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,36550
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,41250
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,24,17,2009,30600
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,24,17,2009,37100
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,27900
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,32700
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,40250
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,35550
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,36100
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,24,17,2009,33200
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,37900
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,29600
+Nissan,350Z,2007,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,38070
+Nissan,350Z,2007,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,38900
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,24,17,2009,33840
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,38630
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,39630
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,24,17,2009,37740
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,41980
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,36280
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,36740
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,40980
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,38680
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,28510
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,30210
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,24,17,2009,31210
+Nissan,350Z,2008,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Coupe,25,18,2009,33340
+Nissan,350Z,2008,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,37280
+Nissan,350Z,2009,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,41570
+Nissan,350Z,2009,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,36870
+Nissan,350Z,2009,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,42570
+Nissan,350Z,2009,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,37870
+Nissan,350Z,2009,regular unleaded,306,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,39220
+Nissan,350Z,2009,regular unleaded,306,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,23,17,2009,40220
+Ferrari,360,2002,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,Compact,Convertible,15,10,2774,160829
+Ferrari,360,2002,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,Compact,Coupe,15,10,2774,140615
+Ferrari,360,2002,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,15,10,2774,150694
+Ferrari,360,2002,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,15,10,2774,170829
+Ferrari,360,2003,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,Compact,Convertible,15,10,2774,165986
+Ferrari,360,2003,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,15,10,2774,154090
+Ferrari,360,2003,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,Compact,Coupe,15,10,2774,143860
+Ferrari,360,2003,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,15,10,2774,176287
+Ferrari,360,2004,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,15,10,2774,157767
+Ferrari,360,2004,premium unleaded (required),425,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,15,10,2774,187124
+Ferrari,360,2004,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,Compact,Coupe,15,10,2774,147332
+Ferrari,360,2004,premium unleaded (required),400,8,MANUAL,rear wheel drive,2,Compact,Convertible,15,10,2774,169900
+Ferrari,360,2004,premium unleaded (required),400,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,15,10,2774,180408
+Nissan,370Z,2015,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,46790
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,48100
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,29990
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,41820
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,31290
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,34870
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,33570
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,46570
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,37970
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,37070
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,49400
+Nissan,370Z,2015,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,45270
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,39270
+Nissan,370Z,2015,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,45490
+Nissan,370Z,2015,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,41990
+Nissan,370Z,2015,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,38370
+Nissan,370Z,2015,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,43290
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,41820
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,48100
+Nissan,370Z,2016,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,43290
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,39270
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,34870
+Nissan,370Z,2016,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,41990
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,38370
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,45270
+Nissan,370Z,2016,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,45490
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,29990
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,46570
+Nissan,370Z,2016,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,46790
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,49400
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,37070
+Nissan,370Z,2016,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,31290
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,37970
+Nissan,370Z,2016,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,33570
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,37970
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,38370
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,34870
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,29990
+Nissan,370Z,2017,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,45490
+Nissan,370Z,2017,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,41990
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,45270
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,33570
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Convertible,24,17,2009,48100
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,39270
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,46570
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,49400
+Nissan,370Z,2017,premium unleaded (required),332,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,2009,37070
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Convertible,25,18,2009,41820
+Nissan,370Z,2017,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,46790
+Nissan,370Z,2017,premium unleaded (required),350,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,43290
+Nissan,370Z,2017,premium unleaded (required),332,6,AUTOMATIC,rear wheel drive,2,Compact,Coupe,26,19,2009,31290
+Mazda,3,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,Compact,Sedan,37,25,586,25045
+Mazda,3,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,39,28,586,26095
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,41,30,586,23795
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,Sedan,41,29,586,19595
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,Sedan,41,29,586,18445
+Mazda,3,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,Compact,Sedan,37,25,586,23845
+Mazda,3,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,37,27,586,25395
+Mazda,3,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,39,28,586,24895
+Mazda,3,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,26,586,25545
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,40,30,586,24295
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,41,30,586,19495
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,40,29,586,20095
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,40,30,586,19995
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,40,30,586,21145
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,40,29,586,23245
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,Sedan,41,29,586,16945
+Mazda,3,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,26,586,24345
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,41,30,586,20645
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,40,29,586,18945
+Mazda,3,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,37,27,586,26595
+Mazda,3,2015,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,Sedan,41,29,586,22745
+Mazda,3,2015,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,41,30,586,17995
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,Sedan,41,29,586,22545
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,41,30,586,21095
+Mazda,3,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,37,27,586,25495
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,40,29,586,20745
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,40,30,586,24295
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,41,30,586,23595
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,40,30,586,21795
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,Sedan,41,29,586,17845
+Mazda,3,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,37,27,586,26495
+Mazda,3,2016,regular unleaded,184,4,MANUAL,front wheel drive,4,Compact,Sedan,37,25,586,24745
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,41,30,586,18895
+Mazda,3,2016,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,40,30,586,19595
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,40,29,586,23245
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,40,29,586,18545
+Mazda,3,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,39,28,586,25795
+Mazda,3,2016,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,Sedan,41,29,586,20045
+Mazda,3,2016,regular unleaded,184,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,35,26,586,25445
+Mazda,3,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,Sedan,39,28,586,24795
+Mazda,3,2017,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,37,28,586,21495
+Mazda,3,2017,regular unleaded,155,4,MANUAL,front wheel drive,4,Midsize,Sedan,37,27,586,17845
+Mazda,3,2017,regular unleaded,184,4,MANUAL,front wheel drive,4,Midsize,Sedan,34,25,586,23145
+Mazda,3,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,36,27,586,24195
+Mazda,3,2017,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,37,28,586,20145
+Mazda,3,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,35,26,586,24945
+Mazda,3,2017,regular unleaded,184,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,33,25,586,23895
+Mazda,3,2017,regular unleaded,155,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,37,27,586,19095
+Mazda,3,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,35,26,586,23445
+Mazda,3,2017,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,37,28,586,18895
+Mazda,3,2017,regular unleaded,155,4,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,37,28,586,22245
+Mazda,3,2017,regular unleaded,184,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,33,25,586,22395
+Mazda,3,2017,regular unleaded,155,4,MANUAL,front wheel drive,4,Midsize,Sedan,37,27,586,20445
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,33,22,3916,42300
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,34,23,3916,40300
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,34,23,3916,40300
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,33,22,3916,42300
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,32,21,3916,45800
+BMW,4 Series Gran Coupe,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,31,20,3916,47800
+BMW,4 Series Gran Coupe,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,34,22,3916,43650
+BMW,4 Series Gran Coupe,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,30,20,3916,49950
+BMW,4 Series Gran Coupe,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,31,20,3916,47950
+BMW,4 Series Gran Coupe,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,34,23,3916,41650
+BMW,4 Series Gran Coupe,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,32,21,3916,48300
+BMW,4 Series Gran Coupe,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,31,21,3916,50300
+BMW,4 Series Gran Coupe,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,33,23,3916,43950
+BMW,4 Series Gran Coupe,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,34,23,3916,41950
+BMW,4 Series,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,Midsize,Convertible,29,20,3916,56900
+BMW,4 Series,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,32,21,3916,46250
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Midsize,Convertible,33,21,3916,50750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Midsize,Coupe,33,22,3916,42750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,34,23,3916,48750
+BMW,4 Series,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,Midsize,Coupe,30,20,3916,48250
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Midsize,Coupe,33,22,3916,42750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Midsize,Convertible,33,21,3916,50750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,35,23,3916,40750
+BMW,4 Series,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,31,20,3916,54900
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,34,23,3916,48750
+BMW,4 Series,2015,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,35,23,3916,40750
+BMW,4 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Midsize,Convertible,33,21,3916,52000
+BMW,4 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,34,23,3916,50000
+BMW,4 Series,2016,premium unleaded (required),240,4,MANUAL,rear wheel drive,2,Midsize,Coupe,34,22,3916,41850
+BMW,4 Series,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,Midsize,Coupe,30,20,3916,50150
+BMW,4 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,35,23,3916,41850
+BMW,4 Series,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,2,Midsize,Convertible,29,20,3916,58950
+BMW,4 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,2,Midsize,Coupe,34,22,3916,43850
+BMW,4 Series,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,31,20,3916,48150
+BMW,4 Series,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,31,20,3916,56950
+BMW,4 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,34,23,3916,50300
+BMW,4 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Midsize,Convertible,32,22,3916,52300
+BMW,4 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,2,Midsize,Coupe,31,21,3916,50500
+BMW,4 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,all wheel drive,2,Midsize,Coupe,33,23,3916,44150
+BMW,4 Series,2017,premium unleaded (recommended),248,4,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,34,23,3916,42150
+BMW,4 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,all wheel drive,2,Midsize,Convertible,30,20,3916,59300
+BMW,4 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,29,21,3916,57300
+BMW,4 Series,2017,premium unleaded (recommended),320,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,32,21,3916,48500
+Mercedes-Benz,400-Class,1992,regular unleaded,268,8,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,20,15,617,2168
+Mercedes-Benz,400-Class,1992,regular unleaded,282,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,12,617,2497
+Mercedes-Benz,400-Class,1993,regular unleaded,275,8,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,16,617,2278
+Mercedes-Benz,400-Class,1993,regular unleaded,275,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,17,13,617,2650
+Mercedes-Benz,420-Class,1990,regular unleaded,201,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,17,14,617,2000
+Mercedes-Benz,420-Class,1991,regular unleaded,201,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,17,14,617,2186
+Ferrari,456M,2001,premium unleaded (required),442,12,AUTOMATIC,rear wheel drive,2,Compact,Coupe,14,9,2774,223970
+Ferrari,456M,2001,premium unleaded (required),442,12,MANUAL,rear wheel drive,2,Compact,Coupe,15,9,2774,219775
+Ferrari,456M,2002,premium unleaded (required),442,12,AUTOMATIC,rear wheel drive,2,Compact,Coupe,14,9,2774,228625
+Ferrari,456M,2002,premium unleaded (required),442,12,MANUAL,rear wheel drive,2,Compact,Coupe,15,9,2774,224585
+Ferrari,456M,2003,premium unleaded (required),442,12,AUTOMATIC,rear wheel drive,2,Compact,Coupe,14,9,2774,228625
+Ferrari,456M,2003,premium unleaded (required),442,12,MANUAL,rear wheel drive,2,Compact,Coupe,15,9,2774,224585
+Ferrari,458 Italia,2013,premium unleaded (required),562,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,17,13,2774,257412
+Ferrari,458 Italia,2013,premium unleaded (required),562,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,17,13,2774,233509
+Ferrari,458 Italia,2014,premium unleaded (required),562,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,17,13,2774,233509
+Ferrari,458 Italia,2014,premium unleaded (required),597,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,17,13,2774,288000
+Ferrari,458 Italia,2014,premium unleaded (required),562,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,17,13,2774,257412
+Ferrari,458 Italia,2015,premium unleaded (required),562,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,17,13,2774,239340
+Ferrari,458 Italia,2015,premium unleaded (required),562,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,17,13,2774,263553
+Ferrari,458 Italia,2015,premium unleaded (required),597,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,17,13,2774,291744
+Alfa Romeo,4C,2015,premium unleaded (required),237,4,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,34,24,113,63900
+Alfa Romeo,4C,2015,premium unleaded (required),237,4,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,34,24,113,68400
+Alfa Romeo,4C,2015,premium unleaded (required),237,4,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,34,24,113,53900
+Alfa Romeo,4C,2016,premium unleaded (required),237,4,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,34,24,113,55900
+Alfa Romeo,4C,2016,premium unleaded (required),237,4,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,34,24,113,65900
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,23,17,2031,41365
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,23,17,2031,35740
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,22,17,2031,37615
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,22,17,2031,34695
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,22,17,2031,35725
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,22,17,2031,43400
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,23,17,2031,32820
+Toyota,4Runner,2014,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,22,17,2031,38645
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,37825
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,43620
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,36115
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,22,17,2031,35950
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,22,17,2031,33210
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,38855
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,22,17,2031,41585
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,35085
+Toyota,4Runner,2015,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,41310
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,22,17,2031,36690
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,44360
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,39595
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,22,17,2031,42325
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,41850
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,35885
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,38565
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,four wheel drive,4,Midsize,4dr SUV,21,17,2031,36915
+Toyota,4Runner,2016,regular unleaded,270,6,AUTOMATIC,rear wheel drive,4,Midsize,4dr SUV,22,17,2031,34010
+BMW,5 Series Gran Turismo,2015,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,Large,4dr Hatchback,28,19,3916,60700
+BMW,5 Series Gran Turismo,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,4dr Hatchback,24,16,3916,71400
+BMW,5 Series Gran Turismo,2015,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Large,4dr Hatchback,26,18,3916,63000
+BMW,5 Series Gran Turismo,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,Large,4dr Hatchback,25,16,3916,69100
+BMW,5 Series Gran Turismo,2016,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Large,4dr Hatchback,26,18,3916,63200
+BMW,5 Series Gran Turismo,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,4dr Hatchback,24,16,3916,72500
+BMW,5 Series Gran Turismo,2016,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,Large,4dr Hatchback,28,19,3916,60900
+BMW,5 Series Gran Turismo,2017,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Large,4dr Hatchback,26,18,3916,63200
+BMW,5 Series Gran Turismo,2017,premium unleaded (required),300,6,AUTOMATIC,rear wheel drive,4,Large,4dr Hatchback,27,19,3916,60900
+BMW,5 Series Gran Turismo,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,4dr Hatchback,24,15,3916,72500
+BMW,5 Series,2015,premium unleaded (required),443,8,AUTOMATIC,all wheel drive,4,Large,Sedan,25,16,3916,67200
+BMW,5 Series,2015,premium unleaded (required),302,6,AUTOMATIC,all wheel drive,4,Large,Sedan,29,20,3916,57900
+BMW,5 Series,2015,diesel,255,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,38,26,3916,57100
+BMW,5 Series,2015,premium unleaded (required),241,4,AUTOMATIC,all wheel drive,4,Large,Sedan,33,22,3916,52250
+BMW,5 Series,2015,diesel,255,6,AUTOMATIC,all wheel drive,4,Large,Sedan,37,26,3916,59400
+BMW,5 Series,2015,premium unleaded (required),443,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,25,17,3916,64900
+BMW,5 Series,2015,premium unleaded (required),241,4,AUTOMATIC,rear wheel drive,4,Large,Sedan,34,23,3916,49950
+BMW,5 Series,2015,premium unleaded (required),302,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,20,3916,55600
+BMW,5 Series,2016,diesel,255,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,38,26,3916,57350
+BMW,5 Series,2016,premium unleaded (required),302,6,AUTOMATIC,all wheel drive,4,Large,Sedan,29,20,3916,58150
+BMW,5 Series,2016,premium unleaded (required),302,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,20,3916,55850
+BMW,5 Series,2016,premium unleaded (required),240,4,AUTOMATIC,all wheel drive,4,Large,Sedan,34,22,3916,52500
+BMW,5 Series,2016,premium unleaded (required),240,4,AUTOMATIC,rear wheel drive,4,Large,Sedan,34,23,3916,50200
+BMW,5 Series,2016,premium unleaded (required),443,8,AUTOMATIC,all wheel drive,4,Large,Sedan,25,16,3916,68600
+BMW,5 Series,2016,premium unleaded (required),443,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,25,17,3916,66300
+BMW,5 Series,2016,diesel,255,6,AUTOMATIC,all wheel drive,4,Large,Sedan,37,26,3916,59650
+Mercedes-Benz,500-Class,1991,regular unleaded,322,8,AUTOMATIC,rear wheel drive,2,Compact,Convertible,17,13,617,4155
+Mercedes-Benz,500-Class,1992,regular unleaded,322,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,15,11,617,2427
+Mercedes-Benz,500-Class,1992,regular unleaded,322,8,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,16,13,617,3245
+Mercedes-Benz,500-Class,1992,regular unleaded,322,8,AUTOMATIC,rear wheel drive,2,Compact,Convertible,17,13,617,4701
+Mercedes-Benz,500-Class,1993,regular unleaded,315,8,AUTOMATIC,rear wheel drive,2,Large,Coupe,16,12,617,3176
+Mercedes-Benz,500-Class,1993,regular unleaded,315,8,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,18,14,617,3613
+Mercedes-Benz,500-Class,1993,regular unleaded,315,8,AUTOMATIC,rear wheel drive,2,Compact,Convertible,19,14,617,5140
+Mercedes-Benz,500-Class,1993,regular unleaded,315,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,12,617,2692
+FIAT,500e,2015,electric,,0,DIRECT_DRIVE,front wheel drive,2,Compact,2dr Hatchback,108,122,819,31800
+FIAT,500e,2016,electric,,0,DIRECT_DRIVE,front wheel drive,2,Compact,2dr Hatchback,103,121,819,31800
+FIAT,500e,2017,electric,,0,DIRECT_DRIVE,front wheel drive,2,Compact,2dr Hatchback,103,121,819,31800
+FIAT,500,2015,premium unleaded (recommended),160,4,MANUAL,front wheel drive,2,Compact,Convertible,34,28,819,26595
+FIAT,500,2015,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,18700
+FIAT,500,2015,premium unleaded (recommended),135,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,34,28,819,19700
+FIAT,500,2015,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,Convertible,34,28,819,22800
+FIAT,500,2015,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,Convertible,34,28,819,24700
+FIAT,500,2015,premium unleaded (recommended),160,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,34,28,819,22495
+FIAT,500,2015,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,17495
+FIAT,500,2015,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,Convertible,34,28,819,20345
+FIAT,500,2015,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,17700
+FIAT,500,2015,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,20400
+FIAT,500,2015,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,16845
+FIAT,500,2016,premium unleaded (recommended),160,4,MANUAL,front wheel drive,2,Compact,Convertible,34,28,819,26695
+FIAT,500,2016,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,21295
+FIAT,500,2016,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,20395
+FIAT,500,2016,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,17745
+FIAT,500,2016,premium unleaded (recommended),160,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,34,28,819,22575
+FIAT,500,2016,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,Convertible,40,31,819,24495
+FIAT,500,2016,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,16995
+FIAT,500,2016,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,Convertible,40,31,819,20395
+FIAT,500,2016,premium unleaded (recommended),135,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,34,28,819,19700
+FIAT,500,2016,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,40,31,819,17900
+FIAT,500,2016,premium unleaded (recommended),101,4,MANUAL,front wheel drive,2,Compact,Convertible,40,31,819,21395
+FIAT,500,2017,premium unleaded (recommended),160,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,33,28,819,19995
+FIAT,500,2017,premium unleaded (recommended),101,4,AUTOMATIC,front wheel drive,2,Compact,2dr Hatchback,33,27,819,19390
+FIAT,500,2017,premium unleaded (recommended),101,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,33,27,819,17485
+FIAT,500,2017,premium unleaded (recommended),101,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,33,27,819,20885
+FIAT,500,2017,premium unleaded (recommended),160,4,MANUAL,front wheel drive,2,Compact,Convertible,33,28,819,21490
+FIAT,500,2017,premium unleaded (recommended),101,4,AUTOMATIC,front wheel drive,2,Compact,2dr Hatchback,33,27,819,15990
+FIAT,500L,2015,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,Wagon,33,25,819,19345
+FIAT,500L,2015,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,Wagon,33,25,819,23095
+FIAT,500L,2015,premium unleaded (recommended),160,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,30,22,819,24695
+FIAT,500L,2015,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,Wagon,33,25,819,21695
+FIAT,500L,2015,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,Wagon,33,25,819,20695
+FIAT,500L,2016,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,Wagon,33,25,819,21880
+FIAT,500L,2016,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,Wagon,33,25,819,23395
+FIAT,500L,2016,premium unleaded (recommended),160,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,30,22,819,24795
+FIAT,500L,2016,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,Wagon,33,25,819,20795
+FIAT,500L,2016,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,Wagon,33,25,819,19495
+FIAT,500L,2017,premium unleaded (recommended),160,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,30,22,819,23695
+FIAT,500L,2017,premium unleaded (recommended),160,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,30,22,819,20995
+FIAT,500L,2017,premium unleaded (recommended),160,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,30,22,819,22995
+FIAT,500X,2016,regular unleaded,180,4,AUTOMATIC,all wheel drive,4,Compact,4dr SUV,30,21,819,24635
+FIAT,500X,2016,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,Compact,4dr SUV,31,22,819,25135
+FIAT,500X,2016,regular unleaded,180,4,AUTOMATIC,all wheel drive,4,Compact,4dr SUV,30,21,819,29235
+FIAT,500X,2016,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,Compact,4dr SUV,31,22,819,23335
+FIAT,500X,2016,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,Compact,4dr SUV,31,22,819,22735
+FIAT,500X,2016,regular unleaded,180,4,AUTOMATIC,all wheel drive,4,Compact,4dr SUV,30,21,819,27035
+FIAT,500X,2016,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,4dr SUV,34,25,819,20000
+FIAT,500X,2016,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,Compact,4dr SUV,31,22,819,27335
+FIAT,500X,2016,regular unleaded,180,4,AUTOMATIC,all wheel drive,4,Compact,4dr SUV,30,21,819,25235
+FIAT,500X,2017,regular unleaded,180,4,AUTOMATIC,all wheel drive,4,Compact,4dr SUV,29,21,819,27035
+FIAT,500X,2017,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,Compact,4dr SUV,30,22,819,25135
+FIAT,500X,2017,regular unleaded,180,4,AUTOMATIC,all wheel drive,4,Compact,4dr SUV,29,21,819,25235
+FIAT,500X,2017,regular unleaded,180,4,AUTOMATIC,all wheel drive,4,Compact,4dr SUV,29,21,819,23890
+FIAT,500X,2017,regular unleaded,180,4,AUTOMATIC,front wheel drive,4,Compact,4dr SUV,30,22,819,23335
+FIAT,500X,2017,premium unleaded (recommended),160,4,MANUAL,front wheel drive,4,Compact,4dr SUV,33,25,819,19995
+Ferrari,550,2001,premium unleaded (required),485,12,MANUAL,rear wheel drive,2,Compact,Convertible,12,8,2774,248500
+Ferrari,550,2001,premium unleaded (required),485,12,MANUAL,rear wheel drive,2,Compact,Coupe,12,8,2774,205840
+Mercedes-Benz,560-Class,1990,regular unleaded,238,8,AUTOMATIC,rear wheel drive,2,Large,Coupe,16,12,617,2323
+Mercedes-Benz,560-Class,1990,regular unleaded,238,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,12,617,2170
+Mercedes-Benz,560-Class,1991,regular unleaded,238,8,AUTOMATIC,rear wheel drive,2,Large,Coupe,16,12,617,2443
+Mercedes-Benz,560-Class,1991,regular unleaded,238,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,12,617,2304
+McLaren,570S,2016,premium unleaded (required),562,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,23,16,416,184900
+Ferrari,575M,2002,premium unleaded (required),515,12,MANUAL,rear wheel drive,2,Compact,Coupe,15,9,2774,214670
+Ferrari,575M,2002,premium unleaded (required),515,12,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,16,9,2774,224670
+Ferrari,575M,2003,premium unleaded (required),515,12,MANUAL,rear wheel drive,2,Compact,Coupe,15,9,2774,217890
+Ferrari,575M,2003,premium unleaded (required),515,12,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,16,9,2774,228339
+Ferrari,575M,2004,premium unleaded (required),515,12,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,16,9,2774,228339
+Ferrari,575M,2004,premium unleaded (required),515,12,MANUAL,rear wheel drive,2,Compact,Coupe,15,9,2774,217890
+Maybach,57,2010,premium unleaded (required),543,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,366000
+Maybach,57,2010,premium unleaded (required),631,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,455500
+Maybach,57,2010,premium unleaded (required),604,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,405500
+Maybach,57,2011,premium unleaded (required),543,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,372500
+Maybach,57,2011,premium unleaded (required),620,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,412000
+Maybach,57,2012,premium unleaded (required),543,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,379050
+Maybach,57,2012,premium unleaded (required),620,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,418950
+Ferrari,599,2009,premium unleaded (required),611,12,AUTOMATED_MANUAL,rear wheel drive,2,Midsize,Coupe,15,11,2774,320580
+Ferrari,599,2009,premium unleaded (required),611,12,MANUAL,rear wheel drive,2,Midsize,Coupe,15,11,2774,310543
+Ferrari,599,2010,premium unleaded (required),611,12,MANUAL,rear wheel drive,2,Midsize,Coupe,15,11,2774,310543
+Ferrari,599,2011,premium unleaded (required),611,12,AUTOMATED_MANUAL,rear wheel drive,2,Midsize,Coupe,15,11,2774,320580
+Ferrari,599,2011,premium unleaded (required),661,12,AUTOMATED_MANUAL,rear wheel drive,2,Midsize,Coupe,15,11,2774,410000
+Mazda,5,2013,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,22,586,24470
+Mazda,5,2013,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,22,586,20940
+Mazda,5,2013,regular unleaded,157,4,MANUAL,front wheel drive,4,Compact,Passenger Minivan,28,21,586,19940
+Mazda,5,2013,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,22,586,22070
+Mazda,5,2014,regular unleaded,157,4,MANUAL,front wheel drive,4,Compact,Passenger Minivan,28,21,586,20140
+Mazda,5,2014,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,22,586,24670
+Mazda,5,2014,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,22,586,21140
+Mazda,5,2014,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,22,586,22270
+Mazda,5,2015,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,21,586,24770
+Mazda,5,2015,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,21,586,22370
+Mazda,5,2015,regular unleaded,157,4,AUTOMATIC,front wheel drive,4,Compact,Passenger Minivan,28,21,586,21240
+BMW,6 Series Gran Coupe,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,Sedan,24,16,3916,92600
+BMW,6 Series Gran Coupe,2015,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,4,Large,Sedan,29,20,3916,81300
+BMW,6 Series Gran Coupe,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,20,3916,78300
+BMW,6 Series Gran Coupe,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,25,17,3916,89600
+BMW,6 Series Gran Coupe,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,Sedan,24,15,3916,93900
+BMW,6 Series Gran Coupe,2016,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,4,Large,Sedan,29,20,3916,82500
+BMW,6 Series Gran Coupe,2016,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,25,17,3916,90900
+BMW,6 Series Gran Coupe,2016,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,31,20,3916,79500
+BMW,6 Series Gran Coupe,2017,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,24,17,3916,91200
+BMW,6 Series Gran Coupe,2017,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,4,Large,Sedan,28,19,3916,82800
+BMW,6 Series Gran Coupe,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,Sedan,24,15,3916,94200
+BMW,6 Series Gran Coupe,2017,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,29,20,3916,79800
+BMW,6 Series,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,25,17,3916,94900
+BMW,6 Series,2015,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,Midsize,Convertible,29,20,3916,86600
+BMW,6 Series,2015,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,Midsize,Coupe,29,20,3916,79100
+BMW,6 Series,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,32,21,3916,76100
+BMW,6 Series,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,Midsize,Coupe,25,16,3916,90400
+BMW,6 Series,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,31,20,3916,83600
+BMW,6 Series,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,25,17,3916,87400
+BMW,6 Series,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,Midsize,Convertible,24,16,3916,97900
+BMW,6 Series,2016,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,Midsize,Convertible,29,20,3916,87800
+BMW,6 Series,2016,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,31,20,3916,77300
+BMW,6 Series,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,Midsize,Convertible,24,15,3916,99200
+BMW,6 Series,2016,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,25,17,3916,96200
+BMW,6 Series,2016,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,Midsize,Coupe,29,20,3916,80300
+BMW,6 Series,2016,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,31,20,3916,84800
+BMW,6 Series,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,Midsize,Coupe,25,16,3916,91700
+BMW,6 Series,2016,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,25,17,3916,88700
+BMW,6 Series,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,Midsize,Coupe,24,16,3916,92000
+BMW,6 Series,2017,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,30,21,3916,77600
+BMW,6 Series,2017,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,24,17,3916,89000
+BMW,6 Series,2017,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,Midsize,Coupe,28,19,3916,80600
+BMW,6 Series,2017,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,29,20,3916,85100
+BMW,6 Series,2017,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,2,Midsize,Convertible,28,19,3916,88100
+BMW,6 Series,2017,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,2,Midsize,Convertible,24,17,3916,96500
+BMW,6 Series,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,2,Midsize,Convertible,24,15,3916,99500
+Mercedes-Benz,600-Class,1992,regular unleaded,402,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,14,10,617,2960
+Mercedes-Benz,600-Class,1993,regular unleaded,389,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,15,11,617,3108
+Mercedes-Benz,600-Class,1993,regular unleaded,389,12,AUTOMATIC,rear wheel drive,2,Compact,Convertible,16,12,617,4623
+Mercedes-Benz,600-Class,1993,regular unleaded,389,12,AUTOMATIC,rear wheel drive,2,Large,Coupe,15,11,617,3211
+Pontiac,6000,1990,regular unleaded,140,6,AUTOMATIC,front wheel drive,4,Midsize,Sedan,27,17,210,2000
+Pontiac,6000,1990,regular unleaded,110,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,29,20,210,2000
+Pontiac,6000,1990,regular unleaded,140,6,AUTOMATIC,front wheel drive,4,Midsize,Wagon,27,17,210,2000
+Pontiac,6000,1990,regular unleaded,140,6,AUTOMATIC,front wheel drive,4,Midsize,Wagon,27,17,210,2000
+Pontiac,6000,1990,regular unleaded,140,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,27,17,210,2000
+Pontiac,6000,1991,regular unleaded,140,6,AUTOMATIC,front wheel drive,4,Midsize,Wagon,28,17,210,2000
+Pontiac,6000,1991,regular unleaded,140,6,AUTOMATIC,front wheel drive,4,Midsize,Sedan,28,17,210,2000
+Pontiac,6000,1991,regular unleaded,110,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,28,19,210,2000
+Ferrari,612 Scaglietti,2009,premium unleaded (required),532,12,AUTOMATED_MANUAL,rear wheel drive,2,Large,Coupe,16,9,2774,313088
+Ferrari,612 Scaglietti,2010,premium unleaded (required),532,12,AUTOMATED_MANUAL,rear wheel drive,2,Large,Coupe,16,9,2774,313088
+Ferrari,612 Scaglietti,2011,premium unleaded (required),532,12,AUTOMATED_MANUAL,rear wheel drive,2,Large,Coupe,16,9,2774,313088
+Mazda,626,2000,regular unleaded,170,6,MANUAL,front wheel drive,4,Midsize,Sedan,25,19,586,2080
+Mazda,626,2000,regular unleaded,170,6,MANUAL,front wheel drive,4,Midsize,Sedan,25,19,586,2234
+Mazda,626,2000,regular unleaded,130,4,MANUAL,front wheel drive,4,Midsize,Sedan,29,23,586,2000
+Mazda,626,2000,regular unleaded,130,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,25,19,586,2146
+Mazda,626,2001,premium unleaded (required),165,6,MANUAL,front wheel drive,4,Midsize,Sedan,25,19,586,22935
+Mazda,626,2001,premium unleaded (required),165,6,MANUAL,front wheel drive,4,Midsize,Sedan,25,19,586,19935
+Mazda,626,2001,regular unleaded,125,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,25,19,586,20935
+Mazda,626,2001,regular unleaded,125,4,MANUAL,front wheel drive,4,Midsize,Sedan,29,23,586,18735
+Mazda,626,2002,premium unleaded (required),165,6,MANUAL,front wheel drive,4,Midsize,Sedan,25,19,586,19985
+Mazda,626,2002,regular unleaded,125,4,MANUAL,front wheel drive,4,Midsize,Sedan,29,23,586,18785
+Mazda,626,2002,premium unleaded (required),165,6,MANUAL,front wheel drive,4,Midsize,Sedan,25,19,586,21885
+Maybach,62,2010,premium unleaded (required),604,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,456500
+Maybach,62,2010,premium unleaded (required),543,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,417000
+Maybach,62,2010,premium unleaded (required),631,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,506500
+Maybach,62,2011,premium unleaded (required),543,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,423500
+Maybach,62,2011,premium unleaded (required),620,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,463000
+Maybach,62,2012,premium unleaded (required),620,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,470350
+Maybach,62,2012,premium unleaded (required),543,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,16,10,67,430450
+McLaren,650S Coupe,2015,premium unleaded (required),641,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,22,16,416,265500
+McLaren,650S Spider,2015,premium unleaded (required),641,8,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Convertible,22,16,416,280225
+Mazda,6,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,38,26,586,24895
+Mazda,6,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,38,26,586,22895
+Mazda,6,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,Midsize,Sedan,37,25,586,23845
+Mazda,6,2015,regular unleaded,184,4,MANUAL,front wheel drive,4,Midsize,Sedan,37,25,586,21190
+Mazda,6,2015,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,40,28,586,29895
+Mazda,6,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,38,26,586,22995
+Mazda,6,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,38,26,586,24995
+Mazda,6,2016,regular unleaded,184,4,MANUAL,front wheel drive,4,Midsize,Sedan,37,25,586,21495
+Mazda,6,2016,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,38,26,586,30195
+Mazda,6,2016,regular unleaded,184,4,MANUAL,front wheel drive,4,Midsize,Sedan,37,25,586,23945
+Mazda,6,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,35,26,586,30695
+Mazda,6,2017,regular unleaded,184,4,MANUAL,front wheel drive,4,Midsize,Sedan,34,24,586,21945
+Mazda,6,2017,regular unleaded,184,4,MANUAL,front wheel drive,4,Midsize,Sedan,34,24,586,24195
+Mazda,6,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,35,26,586,22995
+Mazda,6,2017,regular unleaded,184,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,35,26,586,25245
+BMW,7 Series,2015,premium unleaded (required),535,12,AUTOMATIC,rear wheel drive,4,Large,Sedan,20,13,3916,141200
+BMW,7 Series,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,29,19,3916,78000
+BMW,7 Series,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,25,16,3916,91000
+BMW,7 Series,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,Sedan,24,16,3916,94000
+BMW,7 Series,2015,premium unleaded (required),315,6,AUTOMATIC,all wheel drive,4,Large,Sedan,28,19,3916,81000
+BMW,7 Series,2015,premium unleaded (required),315,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,29,19,3916,74000
+BMW,7 Series,2015,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,25,17,3916,87300
+BMW,7 Series,2015,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,Sedan,24,16,3916,90300
+BMW,7 Series,2015,diesel,255,6,AUTOMATIC,all wheel drive,4,Large,Sedan,31,23,3916,82500
+BMW,7 Series,2016,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,25,17,3916,94400
+BMW,7 Series,2016,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,29,21,3916,81300
+BMW,7 Series,2016,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,Sedan,25,16,3916,97400
+BMW,7 Series,2017,premium unleaded (required),445,8,AUTOMATIC,rear wheel drive,4,Large,Sedan,26,17,3916,94600
+BMW,7 Series,2017,premium unleaded (required),445,8,AUTOMATIC,all wheel drive,4,Large,Sedan,25,16,3916,97600
+BMW,7 Series,2017,premium unleaded (required),320,6,AUTOMATIC,all wheel drive,4,Large,Sedan,28,19,3916,84500
+BMW,7 Series,2017,premium unleaded (required),320,6,AUTOMATIC,rear wheel drive,4,Large,Sedan,29,21,3916,81500
+Porsche,718 Cayman,2017,premium unleaded (required),300,4,MANUAL,rear wheel drive,2,Compact,Coupe,28,21,1715,53900
+Porsche,718 Cayman,2017,premium unleaded (required),350,4,MANUAL,rear wheel drive,2,Compact,Coupe,26,20,1715,66300
+Volvo,740,1990,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Sedan,26,19,870,2000
+Volvo,740,1990,regular unleaded,153,4,MANUAL,rear wheel drive,4,Midsize,Wagon,26,19,870,2000
+Volvo,740,1990,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Wagon,26,19,870,2000
+Volvo,740,1990,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Wagon,26,19,870,2000
+Volvo,740,1990,regular unleaded,114,4,MANUAL,rear wheel drive,4,Midsize,Sedan,26,19,870,2000
+Volvo,740,1990,regular unleaded,153,4,MANUAL,rear wheel drive,4,Midsize,Sedan,23,18,870,2000
+Volvo,740,1991,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,20,17,870,2000
+Volvo,740,1991,regular unleaded,162,4,MANUAL,rear wheel drive,4,Midsize,Wagon,24,18,870,2000
+Volvo,740,1991,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,24,18,870,2000
+Volvo,740,1991,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,20,17,870,2000
+Volvo,740,1991,regular unleaded,162,4,MANUAL,rear wheel drive,4,Midsize,Sedan,24,18,870,2000
+Volvo,740,1991,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,24,18,870,2000
+Volvo,740,1992,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,20,17,870,2000
+Volvo,740,1992,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,26,18,870,2000
+Volvo,740,1992,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,26,18,870,2000
+Volvo,740,1992,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,26,18,870,2000
+Volvo,760,1990,regular unleaded,144,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,19,15,870,2000
+Volvo,760,1990,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,20,16,870,2000
+Volvo,760,1990,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,20,16,870,2000
+Volvo,780,1990,regular unleaded,188,4,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,20,16,870,2000
+Volvo,780,1990,regular unleaded,144,6,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,19,15,870,2000
+BMW,8 Series,1995,regular unleaded,282,8,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,22,15,3916,4784
+BMW,8 Series,1995,regular unleaded,322,12,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,19,12,3916,5858
+BMW,8 Series,1995,regular unleaded,372,12,MANUAL,rear wheel drive,2,Midsize,Coupe,18,10,3916,8488
+BMW,8 Series,1996,regular unleaded,322,12,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,19,12,3916,6954
+BMW,8 Series,1996,regular unleaded,282,8,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,19,14,3916,5680
+BMW,8 Series,1997,regular unleaded,322,12,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,19,12,3916,7624
+BMW,8 Series,1997,regular unleaded,282,8,AUTOMATIC,rear wheel drive,2,Midsize,Coupe,19,14,3916,6693
+Audi,80,1990,regular unleaded,108,4,MANUAL,front wheel drive,4,Compact,Sedan,28,19,3105,2000
+Audi,80,1990,regular unleaded,130,5,MANUAL,all wheel drive,4,Compact,Sedan,22,16,3105,2000
+Audi,80,1991,regular unleaded,130,5,MANUAL,front wheel drive,4,Compact,Sedan,24,18,3105,2000
+Audi,80,1991,regular unleaded,130,5,MANUAL,all wheel drive,4,Compact,Sedan,22,16,3105,2000
+Audi,80,1992,regular unleaded,130,5,MANUAL,front wheel drive,4,Compact,Sedan,24,18,3105,2000
+Audi,80,1992,regular unleaded,130,5,MANUAL,all wheel drive,4,Compact,Sedan,22,16,3105,2000
+Volvo,850,1995,regular unleaded,222,5,AUTOMATIC,front wheel drive,4,Midsize,Wagon,24,17,870,2000
+Volvo,850,1995,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Sedan,26,18,870,2000
+Volvo,850,1995,regular unleaded,240,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,24,17,870,2000
+Volvo,850,1995,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Sedan,26,18,870,2000
+Volvo,850,1995,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Wagon,26,18,870,2000
+Volvo,850,1995,regular unleaded,222,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,24,17,870,2000
+Volvo,850,1995,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Wagon,26,18,870,2000
+Volvo,850,1995,regular unleaded,240,5,AUTOMATIC,front wheel drive,4,Midsize,Wagon,24,17,870,2000
+Volvo,850,1996,regular unleaded,222,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,24,17,870,2000
+Volvo,850,1996,regular unleaded,222,5,AUTOMATIC,front wheel drive,4,Midsize,Wagon,24,17,870,2000
+Volvo,850,1996,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Sedan,26,18,870,2000
+Volvo,850,1996,regular unleaded,222,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,24,17,870,2000
+Volvo,850,1996,regular unleaded,240,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,24,17,870,2000
+Volvo,850,1996,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Wagon,26,18,870,2000
+Volvo,850,1996,regular unleaded,240,5,AUTOMATIC,front wheel drive,4,Midsize,Wagon,24,17,870,2000
+Volvo,850,1996,regular unleaded,222,5,AUTOMATIC,front wheel drive,4,Midsize,Wagon,24,17,870,2000
+Volvo,850,1996,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Sedan,26,18,870,2000
+Volvo,850,1996,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Wagon,26,18,870,2000
+Volvo,850,1997,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Sedan,26,18,870,2000
+Volvo,850,1997,regular unleaded,168,5,MANUAL,front wheel drive,4,Midsize,Wagon,26,18,870,2000
+Volvo,850,1997,regular unleaded,240,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,24,17,870,2000
+Volvo,850,1997,regular unleaded,222,5,AUTOMATIC,front wheel drive,4,Midsize,Wagon,24,17,870,2000
+Volvo,850,1997,regular unleaded,240,5,AUTOMATIC,front wheel drive,4,Midsize,Wagon,24,17,870,2091
+Volvo,850,1997,regular unleaded,190,5,AUTOMATIC,front wheel drive,4,Midsize,Wagon,24,18,870,2000
+Volvo,850,1997,regular unleaded,190,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,24,18,870,2000
+Volvo,850,1997,regular unleaded,222,5,AUTOMATIC,front wheel drive,4,Midsize,Sedan,24,17,870,2000
+Toyota,86,2017,premium unleaded (recommended),205,4,MANUAL,rear wheel drive,2,Compact,Coupe,28,21,2031,26255
+Toyota,86,2017,premium unleaded (recommended),200,4,AUTOMATIC,rear wheel drive,2,Compact,Coupe,32,24,2031,26975
+Saab,9-2X,2005,premium unleaded (required),227,4,MANUAL,all wheel drive,4,Compact,Wagon,24,17,376,26950
+Saab,9-2X,2005,regular unleaded,165,4,MANUAL,all wheel drive,4,Compact,Wagon,27,20,376,22990
+Saab,9-2X,2006,premium unleaded (required),230,4,MANUAL,all wheel drive,4,Compact,Wagon,25,18,376,26950
+Saab,9-2X,2006,regular unleaded,173,4,MANUAL,all wheel drive,4,Compact,Wagon,26,19,376,22990
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,Midsize,Sedan,33,20,376,28900
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,Compact,Convertible,33,20,376,44080
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,Compact,Convertible,33,20,376,46080
+Saab,9-3 Griffin,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Midsize,Sedan,30,20,376,37115
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,2,Compact,Convertible,33,20,376,39490
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,Midsize,Sedan,33,20,376,34340
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,28,18,376,44080
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,28,18,376,40840
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,28,18,376,31180
+Saab,9-3 Griffin,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Midsize,Sedan,30,20,376,32395
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,29,19,376,34340
+Saab,9-3 Griffin,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Compact,Wagon,29,18,376,34975
+Saab,9-3 Griffin,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,29,18,376,37115
+Saab,9-3 Griffin,2012,premium unleaded (recommended),220,4,MANUAL,all wheel drive,4,Compact,Wagon,30,20,376,34975
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,29,19,376,30250
+Saab,9-3 Griffin,2012,premium unleaded (recommended),220,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,29,18,376,32395
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,MANUAL,front wheel drive,4,Compact,Wagon,33,20,376,29830
+Saab,9-3 Griffin,2012,flex-fuel (premium unleaded recommended/E85),220,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,28,18,376,46080
+Saab,9-3,2009,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Compact,Wagon,27,17,376,37810
+Saab,9-3,2009,premium unleaded (recommended),280,6,AUTOMATIC,front wheel drive,2,Compact,Convertible,24,15,376,51330
+Saab,9-3,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,27,19,376,38305
+Saab,9-3,2009,premium unleaded (recommended),280,6,AUTOMATIC,all wheel drive,4,Compact,Wagon,24,15,376,44885
+Saab,9-3,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Midsize,Sedan,29,19,376,30360
+Saab,9-3,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Compact,Convertible,27,19,376,42130
+Saab,9-3,2009,premium unleaded (recommended),280,6,AUTOMATIC,all wheel drive,4,Midsize,Sedan,24,15,376,43605
+Saab,9-3,2009,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Compact,Wagon,29,19,376,31790
+Saab,9-3,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,27,19,376,35315
+Saab,9-3,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,28,19,376,37140
+Saab,9-3,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,28,19,376,34150
+Saab,9-3,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,27,19,376,44455
+Saab,9-3,2009,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,27,17,376,36395
+Saab,9-3,2009,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,27,19,376,47345
+Saab,9-3,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,27,17,376,32395
+Saab,9-3,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,4,Midsize,Sedan,31,21,376,28900
+Saab,9-3,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,4,Compact,Wagon,31,21,376,30330
+Saab,9-3,2010,premium unleaded (recommended),207,4,MANUAL,front wheel drive,2,Compact,Convertible,29,20,376,39990
+Saab,9-3,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,27,17,376,38115
+Saab,9-3,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,27,19,376,45080
+Saab,9-3,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,28,19,376,35340
+Saab,9-3,2010,premium unleaded (recommended),207,4,AUTOMATIC,all wheel drive,4,Compact,Wagon,27,17,376,36975
+Saab,9-3,2010,premium unleaded (recommended),207,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,27,19,376,37020
+Saab,9-3,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Midsize,Sedan,31,21,376,28900
+Saab,9-3,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,27,17,376,38115
+Saab,9-3,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Midsize,Sedan,27,17,376,32395
+Saab,9-3,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,2,Compact,Convertible,29,20,376,39990
+Saab,9-3,2011,premium unleaded (recommended),210,4,MANUAL,front wheel drive,4,Compact,Wagon,31,21,376,30330
+Saab,9-3,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Compact,Wagon,27,19,376,37020
+Saab,9-3,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,28,19,376,35340
+Saab,9-3,2011,premium unleaded (recommended),210,4,AUTOMATIC,all wheel drive,4,Compact,Wagon,27,17,376,36975
+Saab,9-3,2011,premium unleaded (recommended),210,4,AUTOMATIC,front wheel drive,2,Compact,Convertible,27,19,376,45080
+Saab,9-4X,2011,premium unleaded (required),265,6,AUTOMATIC,front wheel drive,4,Midsize,4dr SUV,25,18,376,37250
+Saab,9-4X,2011,premium unleaded (required),265,6,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,23,17,376,35875
+Saab,9-4X,2011,premium unleaded (required),265,6,AUTOMATIC,front wheel drive,4,Midsize,4dr SUV,25,18,376,33380
+Saab,9-4X,2011,premium unleaded (required),265,6,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,23,17,376,40245
+Saab,9-4X,2011,premium unleaded (required),300,6,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,22,15,376,48010
+Saab,9-5,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,27,17,376,39400
+Saab,9-5,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,Midsize,Wagon,27,17,376,43270
+Saab,9-5,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,Midsize,Wagon,27,17,376,39650
+Saab,9-5,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,27,17,376,38380
+Saab,9-5,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,Midsize,Wagon,27,17,376,40765
+Saab,9-5,2009,premium unleaded (recommended),260,4,AUTOMATIC,front wheel drive,4,Midsize,Sedan,27,17,376,42000
+Saab,9-5,2010,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,16,376,49165
+Saab,9-5,2011,premium unleaded (recommended),220,4,MANUAL,front wheel drive,4,Large,Sedan,33,20,376,38525
+Saab,9-5,2011,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,17,376,49565
+Saab,9-5,2011,premium unleaded (recommended),220,4,AUTOMATIC,front wheel drive,4,Large,Sedan,28,18,376,43435
+Saab,9-5,2011,premium unleaded (recommended),300,6,AUTOMATIC,all wheel drive,4,Large,Sedan,27,17,376,48030
+Saab,9-7X,2007,regular unleaded,290,6,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,20,14,376,39190
+Saab,9-7X,2007,regular unleaded,300,8,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,19,13,376,41190
+Saab,9-7X,2008,regular unleaded,300,8,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,19,13,376,42770
+Saab,9-7X,2008,regular unleaded,285,6,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,20,14,376,40400
+Saab,9-7X,2008,regular unleaded,390,8,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,16,12,376,46530
+Saab,9-7X,2009,regular unleaded,390,8,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,16,12,376,49105
+Saab,9-7X,2009,regular unleaded,285,6,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,20,14,376,42615
+Saab,9-7X,2009,regular unleaded,300,8,AUTOMATIC,all wheel drive,4,Midsize,4dr SUV,20,14,376,45345
+Saab,9000,1996,regular unleaded,225,4,MANUAL,front wheel drive,4,Midsize,4dr Hatchback,25,18,376,2000
+Saab,9000,1996,regular unleaded,210,6,AUTOMATIC,front wheel drive,4,Midsize,4dr Hatchback,24,16,376,2000
+Saab,9000,1996,regular unleaded,170,4,MANUAL,front wheel drive,4,Midsize,4dr Hatchback,25,18,376,2000
+Saab,9000,1996,regular unleaded,200,4,MANUAL,front wheel drive,4,Midsize,4dr Hatchback,25,18,376,2000
+Saab,9000,1997,regular unleaded,210,6,AUTOMATIC,front wheel drive,4,Midsize,4dr Hatchback,24,16,376,2122
+Saab,9000,1997,regular unleaded,170,4,MANUAL,front wheel drive,4,Midsize,4dr Hatchback,26,18,376,2000
+Saab,9000,1997,regular unleaded,225,4,MANUAL,front wheel drive,4,Midsize,4dr Hatchback,26,18,376,2145
+Saab,9000,1997,regular unleaded,200,4,MANUAL,front wheel drive,4,Midsize,4dr Hatchback,26,18,376,2084
+Saab,9000,1997,regular unleaded,200,4,MANUAL,front wheel drive,4,Midsize,4dr Hatchback,26,18,376,2063
+Saab,9000,1998,regular unleaded,225,4,MANUAL,front wheel drive,4,Midsize,4dr Hatchback,25,18,376,2172
+Saab,900,1996,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,26,18,376,2000
+Saab,900,1996,regular unleaded,185,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,23,15,376,2000
+Saab,900,1996,regular unleaded,150,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,26,18,376,2000
+Saab,900,1996,regular unleaded,170,6,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,23,17,376,2000
+Saab,900,1996,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,Convertible,26,18,376,2000
+Saab,900,1996,regular unleaded,170,6,AUTOMATIC,front wheel drive,2,Compact,Convertible,23,17,376,2000
+Saab,900,1996,regular unleaded,150,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,26,18,376,2000
+Saab,900,1996,regular unleaded,150,4,MANUAL,front wheel drive,2,Compact,Convertible,26,18,376,2000
+Saab,900,1997,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,25,18,376,2000
+Saab,900,1997,regular unleaded,170,6,AUTOMATIC,front wheel drive,4,Compact,4dr Hatchback,23,17,376,2000
+Saab,900,1997,regular unleaded,150,4,MANUAL,front wheel drive,2,Compact,Convertible,26,18,376,2000
+Saab,900,1997,regular unleaded,150,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,26,18,376,2000
+Saab,900,1997,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,Convertible,25,18,376,2078
+Saab,900,1997,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,25,18,376,2000
+Saab,900,1997,regular unleaded,185,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,25,18,376,2000
+Saab,900,1997,regular unleaded,185,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,25,18,376,2000
+Saab,900,1997,regular unleaded,170,6,AUTOMATIC,front wheel drive,2,Compact,Convertible,23,17,376,2117
+Saab,900,1997,regular unleaded,150,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,26,18,376,2000
+Saab,900,1997,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,Convertible,25,18,376,2115
+Saab,900,1998,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,25,18,376,2000
+Saab,900,1998,regular unleaded,185,4,MANUAL,front wheel drive,4,Compact,4dr Hatchback,24,18,376,2000
+Saab,900,1998,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,Convertible,25,18,376,2268
+Saab,900,1998,regular unleaded,185,4,MANUAL,front wheel drive,2,Compact,2dr Hatchback,24,18,376,2000
+Audi,90,1993,regular unleaded,172,6,MANUAL,all wheel drive,4,Compact,Sedan,20,15,3105,2000
+Audi,90,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Compact,Sedan,24,18,3105,2000
+Audi,90,1993,regular unleaded,172,6,MANUAL,front wheel drive,4,Compact,Sedan,24,18,3105,2000
+Audi,90,1994,regular unleaded,172,6,MANUAL,all wheel drive,4,Compact,Sedan,22,17,3105,2000
+Audi,90,1994,regular unleaded,172,6,MANUAL,front wheel drive,4,Compact,Sedan,24,18,3105,2000
+Audi,90,1994,regular unleaded,172,6,MANUAL,front wheel drive,4,Compact,Sedan,24,18,3105,2000
+Audi,90,1995,regular unleaded,172,6,MANUAL,all wheel drive,4,Compact,Sedan,23,17,3105,2000
+Audi,90,1995,regular unleaded,172,6,MANUAL,front wheel drive,4,Compact,Sedan,24,17,3105,2000
+Audi,90,1995,regular unleaded,172,6,MANUAL,front wheel drive,4,Compact,Sedan,24,17,3105,2000
+Porsche,911,2015,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Convertible,27,19,1715,96200
+Porsche,911,2015,premium unleaded (required),430,6,MANUAL,all wheel drive,2,Compact,Convertible,25,18,1715,132800
+Porsche,911,2015,premium unleaded (required),430,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,120900
+Porsche,911,2015,premium unleaded (required),400,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,105630
+Porsche,911,2015,premium unleaded (required),400,6,MANUAL,rear wheel drive,2,Compact,Coupe,27,19,1715,98900
+Porsche,911,2015,premium unleaded (required),520,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Convertible,24,17,1715,163000
+Porsche,911,2015,premium unleaded (required),350,6,MANUAL,all wheel drive,2,Compact,Convertible,26,19,1715,102930
+Porsche,911,2015,premium unleaded (required),520,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Coupe,24,17,1715,151100
+Porsche,911,2015,premium unleaded (required),350,6,MANUAL,all wheel drive,2,Compact,Coupe,27,19,1715,91030
+Porsche,911,2015,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,27,19,1715,84300
+Porsche,911,2015,premium unleaded (required),430,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,1715,114200
+Porsche,911,2015,premium unleaded (required),560,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Coupe,24,17,1715,182700
+Porsche,911,2015,premium unleaded (required),560,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Convertible,24,17,1715,194600
+Porsche,911,2015,premium unleaded (required),475,6,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,20,15,1715,130400
+Porsche,911,2015,premium unleaded (required),400,6,MANUAL,rear wheel drive,2,Compact,Convertible,27,19,1715,110800
+Porsche,911,2015,premium unleaded (required),400,6,MANUAL,all wheel drive,2,Compact,Convertible,26,18,1715,117530
+Porsche,911,2015,premium unleaded (required),430,6,MANUAL,rear wheel drive,2,Compact,Convertible,25,18,1715,126100
+Porsche,911,2015,premium unleaded (required),350,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,101600
+Porsche,911,2015,premium unleaded (required),400,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,116200
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,all wheel drive,2,Compact,Convertible,26,19,1715,102930
+Porsche,911,2016,premium unleaded (required),430,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,120900
+Porsche,911,2016,premium unleaded (required),400,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,105630
+Porsche,911,2016,premium unleaded (required),430,6,MANUAL,rear wheel drive,2,Compact,Convertible,25,18,1715,126100
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,all wheel drive,2,Compact,Coupe,27,19,1715,91030
+Porsche,911,2016,premium unleaded (required),400,6,MANUAL,rear wheel drive,2,Compact,Coupe,27,19,1715,98900
+Porsche,911,2016,premium unleaded (required),430,6,MANUAL,all wheel drive,2,Compact,Convertible,25,18,1715,132800
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,27,19,1715,84300
+Porsche,911,2016,premium unleaded (required),520,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Coupe,24,17,1715,151100
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,all wheel drive,2,Compact,Convertible,26,19,1715,104600
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,102930
+Porsche,911,2016,premium unleaded (required),430,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,132800
+Porsche,911,2016,premium unleaded (required),430,6,MANUAL,rear wheel drive,2,Compact,Coupe,26,18,1715,114200
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Coupe,27,19,1715,88800
+Porsche,911,2016,premium unleaded (required),560,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Convertible,24,17,1715,194600
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Convertible,27,19,1715,96200
+Porsche,911,2016,premium unleaded (required),400,6,MANUAL,all wheel drive,2,Compact,Coupe,26,18,1715,117530
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,all wheel drive,2,Compact,Coupe,27,19,1715,94800
+Porsche,911,2016,premium unleaded (required),400,6,MANUAL,rear wheel drive,2,Compact,Convertible,27,19,1715,110800
+Porsche,911,2016,premium unleaded (required),400,6,MANUAL,all wheel drive,2,Compact,Convertible,26,18,1715,117530
+Porsche,911,2016,premium unleaded (required),350,6,MANUAL,rear wheel drive,2,Compact,Convertible,27,19,1715,98500
+Porsche,911,2016,premium unleaded (required),520,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Convertible,24,17,1715,163000
+Porsche,911,2016,premium unleaded (required),560,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Coupe,24,17,1715,182700
+Porsche,911,2016,premium unleaded (required),475,6,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,20,15,1715,130400
+Porsche,911,2016,premium unleaded (required),500,6,AUTOMATED_MANUAL,rear wheel drive,2,Compact,Coupe,20,14,1715,175900
+Porsche,911,2017,premium unleaded (required),540,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Coupe,29,20,1715,159200
+Porsche,911,2017,premium unleaded (required),370,6,MANUAL,all wheel drive,2,Compact,Coupe,28,19,1715,108600
+Porsche,911,2017,premium unleaded (required),580,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Convertible,28,20,1715,200400
+Porsche,911,2017,premium unleaded (required),420,6,MANUAL,rear wheel drive,2,Compact,Convertible,28,20,1715,115700
+Porsche,911,2017,premium unleaded (required),420,6,MANUAL,all wheel drive,2,Compact,Coupe,28,20,1715,110300
+Porsche,911,2017,premium unleaded (required),420,6,MANUAL,all wheel drive,2,Compact,Coupe,28,20,1715,122600
+Porsche,911,2017,premium unleaded (required),420,6,MANUAL,rear wheel drive,2,Compact,Coupe,28,20,1715,103400
+Porsche,911,2017,premium unleaded (required),370,6,MANUAL,all wheel drive,2,Compact,Coupe,29,20,1715,96300
+Porsche,911,2017,premium unleaded (required),370,6,MANUAL,rear wheel drive,2,Compact,Convertible,29,20,1715,101700
+Porsche,911,2017,premium unleaded (required),540,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Convertible,29,20,1715,171500
+Porsche,911,2017,premium unleaded (required),580,6,AUTOMATED_MANUAL,all wheel drive,2,Compact,Coupe,28,20,1715,188100
+Porsche,911,2017,premium unleaded (required),370,6,MANUAL,all wheel drive,2,Compact,Convertible,29,20,1715,108600
+Porsche,911,2017,premium unleaded (required),420,6,MANUAL,all wheel drive,2,Compact,Convertible,28,20,1715,122600
+Porsche,911,2017,premium unleaded (required),370,6,MANUAL,rear wheel drive,2,Compact,Coupe,29,20,1715,89400
+Porsche,928,1993,regular unleaded,345,8,MANUAL,rear wheel drive,2,Compact,2dr Hatchback,17,11,1715,6294
+Porsche,928,1994,regular unleaded,345,8,MANUAL,rear wheel drive,2,Compact,2dr Hatchback,17,11,1715,7419
+Porsche,928,1995,regular unleaded,345,8,MANUAL,rear wheel drive,2,Compact,2dr Hatchback,17,11,1715,9400
+Mazda,929,1993,regular unleaded,195,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,17,586,2000
+Mazda,929,1994,regular unleaded,193,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,17,586,2000
+Mazda,929,1995,regular unleaded,193,6,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,17,586,2000
+Volvo,940,1993,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,25,17,870,2000
+Volvo,940,1993,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,25,17,870,2000
+Volvo,940,1993,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,17,870,2000
+Volvo,940,1993,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,25,17,870,2000
+Volvo,940,1993,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,25,17,870,2000
+Volvo,940,1993,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,22,17,870,2000
+Volvo,940,1994,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,24,17,870,2000
+Volvo,940,1994,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,24,17,870,2000
+Volvo,940,1994,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,17,870,2000
+Volvo,940,1994,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,22,17,870,2000
+Volvo,940,1995,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,22,17,870,2000
+Volvo,940,1995,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,24,17,870,2000
+Volvo,940,1995,regular unleaded,162,4,AUTOMATIC,rear wheel drive,4,Midsize,Wagon,22,17,870,2000
+Volvo,940,1995,regular unleaded,114,4,AUTOMATIC,rear wheel drive,4,Midsize,Sedan,24,17,870,2000
+Porsche,944,1990,regular unleaded,208,4,MANUAL,rear wheel drive,2,Compact,2dr Hatchback,24,15,1715,2667
